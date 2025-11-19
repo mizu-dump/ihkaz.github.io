@@ -32,7 +32,7 @@ window.scriptData = [
   {
     id: "roblox_script",
     title: "Roblox Scripts",
-    link: "/robloxscript",
+    link: "https://mizu-dump.github.io/ihkaz.scriptcontain.github.io/",
     description: "Roblox Script Collection",
     tags: ["roblox","script","collection"],
     category: "Script",
