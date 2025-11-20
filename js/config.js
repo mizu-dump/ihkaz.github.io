@@ -6,7 +6,7 @@ window.scriptData = [
     description: "Free Grow A Garden Spawner Script",
     category: "Script",
     image: "https://raw.githubusercontent.com/ihkaz/Growtopia-Script/main/gtscript.png",
-    tags: ["gag","dialog","builder","lua-languange"],
+    tags: ["gag","spawner","dupe","lua-languange"],
     icon: "fa-code"
   },
   {
