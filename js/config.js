@@ -16,7 +16,7 @@ window.scriptData = [
     description: "Join MZZHUB Community on Discord & Get MZZ Script",
     category: "Community",
     tags: ["roblox","discord","community"],
-    image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20105%20%5B22D8881%5D.png",
+    image: "https://raw.githubusercontent.com/mizu-dump/ihkaz.github.io/main/images/discord_server.png",
     icon: "fab fa-discord"
   },
   {
