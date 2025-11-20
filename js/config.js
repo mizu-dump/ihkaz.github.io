@@ -25,7 +25,7 @@ window.scriptData = [
     link: "https://roxploits.com/",
     description: "Cheap Executor Key Via Redeem Codes",
     tags: ["roxploits","executor","key","cheap"],
-    category: "Partnership",
+    category: "Sponsored",
     image: "https://raw.githubusercontent.com/mizu-dump/ihkaz.github.io/main/images/sponsored.png",
     icon: "fa-robot"
   },
