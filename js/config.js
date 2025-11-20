@@ -1,12 +1,12 @@
 window.scriptData = [
   {
     id: "growtopia-script-list",
-    title: "Growtopia Script",
-    link: "/ihkazscript",
-    description: "Free Growtopia Script List",
+    title: "Grow A Garden Script",
+    link: "https://mizu-dump.github.io/ihkaz.scriptcontain.github.io/",
+    description: "Free Grow A Garden Spawner Script",
     category: "Script",
     image: "https://raw.githubusercontent.com/ihkaz/Growtopia-Script/main/gtscript.png",
-    tags: ["growtopia","dialog","builder","lua-languange"],
+    tags: ["gag","dialog","builder","lua-languange"],
     icon: "fa-code"
   },
   {
