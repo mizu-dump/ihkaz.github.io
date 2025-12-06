@@ -31,11 +31,21 @@ window.scriptData = [
   },
   {
     id: "roblox_script",
-    title: "Games Scripts List",
+    title: "Scripts List",
     link: "https://mizu-dump.github.io/ihkaz.scriptcontain.github.io/",
-    description: "MZZHUB Roblox Script Collection",
+    description: "MZZHUB Script Collection",
     tags: ["roblox","script","collection"],
     category: "Script",
+    image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20142%20%5BFA5CA94%5D.png",
+    icon: "fa-code"
+  },
+  {
+    id: "roblox_executor",
+    title: "Executor List",
+    link: "https://mizu-dump.github.io/Ihkaz.execdown.github.io/",
+    description: "MZZHUB Executor Collection",
+    tags: ["roblox","executor","collection"],
+    category: "Executor",
     image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20142%20%5BFA5CA94%5D.png",
     icon: "fa-code"
   }
