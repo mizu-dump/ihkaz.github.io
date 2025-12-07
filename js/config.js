@@ -13,7 +13,7 @@ window.scriptData = [
     id: "roblox_community",
     title: "MizuHub Community",
     link: "https://discord.gg/mxSvSpJe7s",
-    description: "Join MZZHUB Community on Discord & Get MZZ Script",
+    description: "Join MZZHUB Community on Discord and Get Notified for Updates.",
     category: "Community",
     tags: ["roblox","discord","community"],
     image: "https://raw.githubusercontent.com/mizu-dump/ihkaz.github.io/main/images/discord_server.png",
