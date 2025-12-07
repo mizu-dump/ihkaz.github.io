@@ -1,6 +1,6 @@
 window.scriptData = [
   {
-    id: "growtopia-script-list",
+    id: "growagarden",
     title: "Grow A Garden Script",
     link: "https://mizu-dump.github.io/ihkaz.scriptcontain.github.io/",
     description: "Free Grow A Garden Spawner Script",
@@ -36,7 +36,7 @@ window.scriptData = [
     description: "MZZHUB Script Collection",
     tags: ["roblox","script","collection"],
     category: "Script",
-    image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20142%20%5BFA5CA94%5D.png",
+    image: "https://raw.githubusercontent.com/mizu-dump/ihkaz.github.io/main/images/script_collect.png",
     icon: "fa-code"
   },
   {
@@ -46,7 +46,7 @@ window.scriptData = [
     description: "MZZHUB Executor Collection",
     tags: ["roblox","executor","collection"],
     category: "Executor",
-    image: "https://raw.githubusercontent.com/ihkaz/iHkazHUB/main/Proyek%20Baru%20142%20%5BFA5CA94%5D.png",
+    image: "https://raw.githubusercontent.com/mizu-dump/ihkaz.github.io/main/images/executor_collect.png",
     icon: "fa-code"
   }
 ];
